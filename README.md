@@ -1,1 +1,1 @@
-<h1>Just A Scholl Project</h1>
+<h1>Just A School Project</h1>
